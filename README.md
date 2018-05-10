@@ -1,11 +1,12 @@
-# Manager with Electron for Developer
+Manager with Electron for Developer
+
 MySQL, Redis, MongoDB GUI tools
 
-## Road Map
+Road Map
 
 - [ ] Product design
 - [ ] UI design
-- [ ] electron + vue + webpack structure
+- [ ] electron + AngularJS
 - [ ] code design
 - [ ] feature.mysql
 - [ ] build Mac .dmg
